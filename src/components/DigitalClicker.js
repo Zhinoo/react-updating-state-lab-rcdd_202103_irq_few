@@ -22,3 +22,4 @@ export default class DigitalClicker extends React.Component {
       <button onClick={this.handleClick}>{this.state.timesClicked}</button>
     )
   }
+}
